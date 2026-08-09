@@ -1,4 +1,4 @@
-# README.md — Privacy-First Utility Apps (WebAssembly)
+
 
 <div align="center">
   <img src="public/assets/logo.svg" alt="Privacy-First Utilities Logo" width="200"/>
